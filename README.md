@@ -19,7 +19,7 @@ The workbook contains two sheets:
 
 ## How to use it
 
-1. Open `Simulazione_NIC.xlsx` in Excel or LibreOffice Calc.
+1. Open `NIC_basket_simulation.xlsx` in Excel or LibreOffice Calc.
 2. In the `Simulazione famiglia` sheet, change the value in the **monthly budget cell** (marked with ◄) to match your household's actual spending.
 3. The table recalculates automatically, showing what the NIC "expects" each category to cost for your budget.
 4. Compare the NIC-implied figures with your real expenses to see where the index is more or less representative.
